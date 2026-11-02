@@ -31,7 +31,7 @@ Build, evaluate, and deploy an end-to-end supervised Machine Learning classifica
 ---
 
 ## c. Github Repository & Live Deployment Links
-* **GitHub Repository Link:** https://github.com/prakash2000singh/uci-breast-cancer-ml-classifier)
+* **GitHub Repository Link:** (https://github.com/prakash2000singh/uci-breast-cancer-ml-classifier)
 * **Live Streamlit App Link:** (https://uci-breast-cancer-classifier-aiml.streamlit.app/)
 
 ---
